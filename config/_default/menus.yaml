@@ -10,12 +10,12 @@ main:
   - name: Publications
     url: publications/
     weight: 20
-  - name: Software
-    url: software/
-    weight: 30
-  - name: BF Tutorial
-    url: tutorial/
-    weight: 40
+  #- name: Software
+  #  url: software/
+#    weight: 30
+#  - name: BF Tutorial
+#    url: tutorial/
+#    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
