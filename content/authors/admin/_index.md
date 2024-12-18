@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikola Sekulovski
+title: Jill de Ron
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,22 +13,22 @@ role: PhD Student, [Psychological Methods, UvA](https://psyres.uva.nl/content/re
 bio: ''
 # Interests to show in About widget
 interests:
-- Bayesian Statistics
+- Formal Modeling
 - Network Psychometrics
 - Bayesian Hypothesis Testing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD - Bayesian Network Psychometrics
+  - course: PhD - Network Psychometrics
     institution: University of Amsterdam, The Netherlands
-    year: 2022 - present
+    year: 2020 - present
   - course: MSc in Methodology and Statistics
-    institution: Utrecht University, The Netherlands
-    year: 2020 - 2022
+    institution: University of Amsterdam, The Netherlands
+    year: 2017 - 2020
   - course: BSc in Psychology
-    institution: Ss. Cyril and Methodius University, North Macedonia
-    year: 2015 - 2019
+    institution: University of Amsterdam, The Netherlands
+    year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
