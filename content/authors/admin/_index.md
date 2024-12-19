@@ -20,7 +20,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD student
+  - course: PhD student in Psychological Methods
     institution: University of Amsterdam, The Netherlands
     year: 2020 - present
   - course: MSc in Psychological Methods (Cum Laude) 
@@ -65,4 +65,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate at the Department of Psychological Methods at the University of Amsterdam, working in the [Theory Construction Lab](https://bayesiangraphicalmodeling.com/). My current project focuses on the further development of Bayesian methods for the analysis of graphical models, mainly for cross-sectional psychological data. My research interests lie in the areas of Bayesian hypothesis testing and network psychometrics. On this website you can find my publications, what I am working on, and my contact information. I am happy to collaborate on research projects, offer consulting, or just engage in stimulating conversations about statistics, science, society, and philosophy in our increasingly complex world.
+I am a PhD candidate at the Department of Psychological Methods at the University of Amsterdam, working in the [Psychosystems Lab](http://psychosystems.org). 
