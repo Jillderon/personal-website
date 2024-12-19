@@ -20,7 +20,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD student in Psychological Methods
+  - course: PhD student in Psychological Methods                   
     institution: University of Amsterdam, The Netherlands
     year: 2020 - present
   - course: MSc in Psychological Methods (Cum Laude) 
@@ -29,7 +29,7 @@ education:
   - course: MSc in Behavioral Data Science (Cum Laude)
     institution: University of Amsterdam, The Netherlands
     year: 2017 - 2018
-  - course: BSc in Psychology (Cum Laude) 
+  - course: BSc in Psychology (Cum Laude)                 
     institution: University of Amsterdam, The Netherlands
     year: 2013 - 2017
 
