@@ -15,18 +15,21 @@ bio: ''
 interests:
 - Formal Modeling
 - Network Psychometrics
-- Bayesian Hypothesis Testing
+- Dynamical Systems Modeling
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD - Network Psychometrics
+  - course: PhD student
     institution: University of Amsterdam, The Netherlands
     year: 2020 - present
-  - course: MSc in Methodology and Statistics
+  - course: MSc in Psychological Methods (Cum Laude) 
     institution: University of Amsterdam, The Netherlands
-    year: 2017 - 2020
-  - course: BSc in Psychology
+    year: 2018 - 2020
+  - course: MSc in Behavioral Data Science (Cum Laude)
+    institution: University of Amsterdam, The Netherlands
+    year: 2017 - 2018
+  - course: BSc in Psychology (Cum Laude) 
     institution: University of Amsterdam, The Netherlands
     year: 2013 - 2017
 
@@ -37,13 +40,13 @@ education:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=cn5deUoAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=eMNx9PYAAAAJ&hl=nl&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/sekulovskin
+  link: https://github.com/Jillderon
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nikola-sekulovski-254507203
+  link: https://www.linkedin.com/in/jill-de-ron-36b520127/
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -62,4 +65,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate at the Department of Psychological Methods at the University of Amsterdam, working in the [Bayesian Graphical Modeling Lab](https://bayesiangraphicalmodeling.com/). My current project focuses on the further development of Bayesian methods for the analysis of graphical models, mainly for cross-sectional psychological data. My research interests lie in the areas of Bayesian hypothesis testing and network psychometrics. On this website you can find my publications, what I am working on, and my contact information. I am happy to collaborate on research projects, offer consulting, or just engage in stimulating conversations about statistics, science, society, and philosophy in our increasingly complex world.
+I am a PhD candidate at the Department of Psychological Methods at the University of Amsterdam, working in the [Theory Construction Lab](https://bayesiangraphicalmodeling.com/). My current project focuses on the further development of Bayesian methods for the analysis of graphical models, mainly for cross-sectional psychological data. My research interests lie in the areas of Bayesian hypothesis testing and network psychometrics. On this website you can find my publications, what I am working on, and my contact information. I am happy to collaborate on research projects, offer consulting, or just engage in stimulating conversations about statistics, science, society, and philosophy in our increasingly complex world.
