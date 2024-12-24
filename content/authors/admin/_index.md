@@ -13,9 +13,9 @@ role: PhD Student, [Psychological Methods, UvA](https://psyres.uva.nl/content/re
 bio: ''
 # Interests to show in About widget
 interests:
-- Formal Modeling
+- Formal Modeling 
 - Network Psychometrics
-- Dynamical Systems Modeling
+- Theory Construction
 
 # Education to show in About widget
 education:
