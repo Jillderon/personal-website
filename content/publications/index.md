@@ -8,7 +8,7 @@ share: false
 
 **2024**
 
-<p style="font-size:medium;text-align:justify">  Hoekstra, R. H. A.*, <b>de Ron, J.*</b>, Epskamp. S., Robinaugh, D. J., & Borsboom, D. (2024). <a href = "https://osf.io/9sguw/download">Mapping the dynamics of idiographic network models to the network theory of psychopathology using stability landscapes</a>. <em>OSF</em>. *indicates shared first author</p>
+<p style="font-size:medium;text-align:justify">  Hoekstra, R. H. A.*, <b>de Ron, J.*</b>, Epskamp. S., Robinaugh, D. J., & Borsboom, D. (2024). <a href = "https://osf.io/9sguw/download">Mapping the dynamics of idiographic network models to the network theory of psychopathology using stability landscapes</a>. <em>OSF</em>. * indicates shared first author</p>
 
 <p style="font-size:medium;text-align:justify"> Van Dongen, N., Van Bork, R., Finnemann, A., Haslbeck, J., van der Maas, H. L. J., Robinaugh, D. J., <b>de Ron, J.</b>, Sprenger, J., & Borsboom, D. (2024). <a href = "https://psycnet.apa.org/fulltext/2025-04988-001.pdf">Productive explanation: A framework for evaluating explanations in psychological science</a>. <em>Psychological Review</em>.</p>
 
@@ -26,7 +26,7 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Bartos, F., Sarafoglou, A., Godmann, H. R., Sahrani, A., ..., <b>de Ron, J.</b>, ..., Aczel, B., & Wagenmakers, E.-J. (2023). <a href = "https://arxiv.org/pdf/2310.04153">Fair coins tend to land on the same side as they started: Evidence from 350,757 flips</a>. <em>OSF</em>.</p> 
 
-<p style="font-size:medium;text-align:justify">  Hoogeveen, S., Sarafoglou, A. Aczel, B.,..., <b>de Ron, J.</b>, ..., & Wagenmakers, E.-J. (2023). <a href = "https://www.tandfonline.com/doi/pdf/10.1080/2153599X.2022.2070255">A many-analyst approach to the relation between religiosity and well-being</a>. <em>Religion, Brain & Behavior</em>.</p> 
+<p style="font-size:medium;text-align:justify">  Hoogeveen, S., Sarafoglou, A. Aczel, B., ..., <b>de Ron, J.</b>, ..., & Wagenmakers, E.-J. (2023). <a href = "https://www.tandfonline.com/doi/pdf/10.1080/2153599X.2022.2070255">A many-analyst approach to the relation between religiosity and well-being</a>. <em>Religion, Brain & Behavior</em>.</p> 
 
 **2022**
 
